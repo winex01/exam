@@ -1,13 +1,7 @@
 <?php 
   require_once('class/Notice.php');
-
   $notices = new Notice();
-
-
-
 ?>
-
-
 
 
 <?php include_once('layouts/header.php') ?>

@@ -25,5 +25,7 @@
   <hr>
 </div> <!-- /container -->
 
+<?php include_once('layouts/footer.php') ?>
+
     
 
